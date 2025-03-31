@@ -1,5 +1,4 @@
 ubuntu
-centos
 nginx
 vllm
 #支持私库
