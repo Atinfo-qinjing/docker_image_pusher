@@ -1,2 +1,2 @@
-ubuntu:22.04
+nvidia/nvidia-container-toolkit:1.17.4
 
