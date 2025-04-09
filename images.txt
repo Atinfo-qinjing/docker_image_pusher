@@ -1,2 +1,2 @@
-atinfo_qinjing/nvidia-container-toolkit:1.17.4
+rayproject/ray-ml:latest-gpu
 
